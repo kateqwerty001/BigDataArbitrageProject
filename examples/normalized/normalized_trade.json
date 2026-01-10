@@ -1,0 +1,14 @@
+{
+  "event_type": "trade",
+  "exchange": "binance",
+  "symbol": "ETH/USDT",
+  "source_symbol": "ETHUSDT",
+  "ts_event_ms": 1767656671866,
+  "ts_ingest_ms": 1767656672500,
+  "ingest_id": "b6c9c1f4-9f1a-4c7b-8f88-4b6e2b8b9c12",
+  "trade_id": "3418382080",
+  "price": 3230.83,
+  "qty": 0.0026,
+  "side": "sell"
+}
+
